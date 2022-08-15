@@ -14,7 +14,7 @@
             "ruti",
             "vaji"
         ],
-        "image": "https://i.postimg.cc/bNnmhdzr/294545197-757142582267875-8836208303971085080-n.jpg",
+        "image": "https://i.postimg.cc/25y0sHrm/breakfast1.png",
         "comments": [
             {
                 "author": "Bon Son",
@@ -26,20 +26,20 @@
     },
     {
         "id": 2,
-        "name": "Ruti",
-        "title": "ruti vaji",
-        "category": "Breakfast",
+        "name": "Meat with Salad",
+        "title": "meat salad",
+        "category": "dinner",
         "price": 10,
-        "description": "I once eat a ruti named bid. I will never forget.",
+        "description": "I once eat a meat named bid. I will never forget.",
         "shafe": "John Doe",
         "date": "2020-01-01",
         "popularity": 10,
         "tags": [
-            "breakfast",
-            "ruti",
-            "vaji"
+            "dinner",
+            "meat",
+            "salad"
         ],
-        "image": "https://i.postimg.cc/bNnmhdzr/294545197-757142582267875-8836208303971085080-n.jpg",
+        "image": "https://i.postimg.cc/Hx48BgRL/dinner1.png",
         "comments": [
             {
                 "author": "Bon Son",
@@ -51,20 +51,20 @@
     },
     {
         "id": 3,
-        "name": "Ruti",
-        "title": "ruti vaji",
-        "category": "Breakfast",
+        "name": "Rice",
+        "title": "rice meat luchi",
+        "category": "lunch",
         "price": 10,
-        "description": "I once eat a ruti named bid. I will never forget.",
+        "description": "I once eat a rice named bid. I will never forget.",
         "shafe": "John Doe",
         "date": "2020-01-01",
         "popularity": 10,
         "tags": [
-            "breakfast",
-            "ruti",
-            "vaji"
+            "lunch",
+            "luchi",
+            "meat"
         ],
-        "image": "https://i.postimg.cc/bNnmhdzr/294545197-757142582267875-8836208303971085080-n.jpg",
+        "image": "https://i.postimg.cc/tJ8b61kn/lunch4.png",
         "comments": [
             {
                 "author": "Bon Son",
