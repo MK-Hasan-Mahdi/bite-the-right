@@ -1,0 +1,77 @@
+[
+    {
+        "id": 1,
+        "name": "Ruti",
+        "title": "ruti vaji",
+        "category": "Breakfast",
+        "price": 10,
+        "description": "I once eat a ruti named bid. I will never forget.",
+        "shafe": "John Doe",
+        "date": "2020-01-01",
+        "popularity": 10,
+        "tags": [
+            "breakfast",
+            "ruti",
+            "vaji"
+        ],
+        "image": "https://i.postimg.cc/bNnmhdzr/294545197-757142582267875-8836208303971085080-n.jpg",
+        "comments": [
+            {
+                "author": "Bon Son",
+                "text": "This is a comment",
+                "date": "2020-01-01"
+            }
+        ],
+        "likes": []
+    },
+    {
+        "id": 2,
+        "name": "Ruti",
+        "title": "ruti vaji",
+        "category": "Breakfast",
+        "price": 10,
+        "description": "I once eat a ruti named bid. I will never forget.",
+        "shafe": "John Doe",
+        "date": "2020-01-01",
+        "popularity": 10,
+        "tags": [
+            "breakfast",
+            "ruti",
+            "vaji"
+        ],
+        "image": "https://i.postimg.cc/bNnmhdzr/294545197-757142582267875-8836208303971085080-n.jpg",
+        "comments": [
+            {
+                "author": "Bon Son",
+                "text": "This is a comment",
+                "date": "2020-01-01"
+            }
+        ],
+        "likes": []
+    },
+    {
+        "id": 3,
+        "name": "Ruti",
+        "title": "ruti vaji",
+        "category": "Breakfast",
+        "price": 10,
+        "description": "I once eat a ruti named bid. I will never forget.",
+        "shafe": "John Doe",
+        "date": "2020-01-01",
+        "popularity": 10,
+        "tags": [
+            "breakfast",
+            "ruti",
+            "vaji"
+        ],
+        "image": "https://i.postimg.cc/bNnmhdzr/294545197-757142582267875-8836208303971085080-n.jpg",
+        "comments": [
+            {
+                "author": "Bon Son",
+                "text": "This is a comment",
+                "date": "2020-01-01"
+            }
+        ],
+        "likes": []
+    }
+]
